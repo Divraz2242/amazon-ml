@@ -1,0 +1,27 @@
+# Dataset
+data/
+dataset/
+
+# Processed data
+processed/
+
+# Models
+models/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
